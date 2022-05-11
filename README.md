@@ -1,2 +1,1 @@
 # glamtrends.github.io
-hotdog
